@@ -58,10 +58,6 @@ The dashboard is designed to help stakeholders monitor KPIs, track year-over-yea
 - Consistent colour theme for readability  
 - Executive-friendly dashboard design  
 
----
-
-## 📷 Dashboard Preview
-Dashboard.png
 
 ---
 

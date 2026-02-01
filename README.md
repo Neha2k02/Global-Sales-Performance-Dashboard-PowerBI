@@ -61,7 +61,7 @@ The dashboard is designed to help stakeholders monitor KPIs, track year-over-yea
 ---
 
 ## 📷 Dashboard Preview
-![Global-Sales-Performance-Dashboard-PowerBI](Dashboard.png)
+Dashboard.png
 
 ---
 

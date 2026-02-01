@@ -61,7 +61,7 @@ The dashboard is designed to help stakeholders monitor KPIs, track year-over-yea
 ---
 
 ## 📷 Dashboard Preview
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](Dashboard.png)
 
 ---
 
